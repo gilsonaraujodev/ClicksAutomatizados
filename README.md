@@ -19,6 +19,5 @@ Este script automatiza cliques do mouse usando Python, com interface gráfica em
 ## Contribuições:
 Sou iniciante e estou aberto a sugestões e contribuições!
 
-## Meios de contato:
-- **Discord: zparker**
+
 
